@@ -1,4 +1,4 @@
-# Tinder for Desktop. Automates profile browing!
+# Tinder for Desktop. Automates profile browsing!
 
 When using Tinder on desktop there is need to manually open each new candidates profiles and browse their photos. This script automates it! Just enjoy swaping with just left and right arrows :)
 
