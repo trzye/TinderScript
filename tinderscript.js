@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Tinder for Desktop. Automates profile browing!
+// @name         Tinder for Desktop. Automates profile browsing!
 // @namespace    https://greasyfork.org/en/scripts/36887/versions/new
 // @version      1.5
 // @description  When using Tinder on desktop there is need to manually open each new candidates profiles and browse their photos. This script automates it! Just enjoy swaping with just left and right arrows :)
